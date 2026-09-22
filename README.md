@@ -64,5 +64,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 [TailwindCSS](https://tailwindcss.com/docs/installation/framework-guides/angular)
 
+[Libro estilos de Angular](https://angular.dev/style-guide#dont-prefix-output-properties)
+
 
 [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli)
